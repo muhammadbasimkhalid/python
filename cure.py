@@ -1,4 +1,4 @@
-List=["Cyclosporiasis","cough","headache","typhoid","pneumonia"]
+List=["sick","cough","headache","typhoid","pneumonia"]
 Medicine=[["Cinnarizine","cyclizine","promethazine","Hyoscine","haloperidol"],["Triaminic Cold and Cough","Robitussin Cough","Vicks 44 Cough and Cold","Mucinex","Robitussin Chest Congestion"],["Aspirin","Acetaminophen","paracetamol","Ibuprofen","Prochlorperazine"],["Fluoroquinolones","Cephalosporins","MacrolidesCarbapenems","ciprofloxacin"],["Fluoroquinolones","Macrolides","Azithromycin","Antibiotics","Lincosamide"]]
 name=input("Enter your name:-")
 disease=input("Hey "+name+" Enter the disease you are suffering with:-")
